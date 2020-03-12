@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b8144c1d-98a6-4cd5-bb94-ed4ce093cc13" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YuKgY6eFak4wjuFI3exxdub9kU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="JUnit.LojinhaWEBTest">
+    <configuration name="LojinhaAPITest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="automacao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testes" />
+      <option name="MAIN_CLASS_NAME" value="testes.LojinhaAPITest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LojinhaAPITest.testBuscarDadosDeUmComponenteEspecifico" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="automacao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testes" />
+      <option name="MAIN_CLASS_NAME" value="testes.LojinhaAPITest" />
+      <option name="METHOD_NAME" value="testBuscarDadosDeUmComponenteEspecifico" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LojinhaWEBTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="automacao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testes" />
+      <option name="MAIN_CLASS_NAME" value="testes.LojinhaWEBTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LojinhaWEBTest.testAdicionarUmProduto" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="automacao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testes" />
+      <option name="MAIN_CLASS_NAME" value="testes.LojinhaWEBTest" />
+      <option name="METHOD_NAME" value="testAdicionarUmProduto" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LojinhaWEBTest.testValidarDadosDeUmProduto" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="automacao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testes" />
+      <option name="MAIN_CLASS_NAME" value="testes.LojinhaWEBTest" />
+      <option name="METHOD_NAME" value="testValidarDadosDeUmProduto" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LojinhaWEBTest" />
+        <item itemvalue="JUnit.LojinhaWEBTest.testAdicionarUmProduto" />
+        <item itemvalue="JUnit.LojinhaWEBTest.testValidarDadosDeUmProduto" />
+        <item itemvalue="JUnit.LojinhaAPITest" />
+        <item itemvalue="JUnit.LojinhaAPITest.testBuscarDadosDeUmComponenteEspecifico" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8144c1d-98a6-4cd5-bb94-ed4ce093cc13" name="Default Changelist" comment="" />
+      <created>1583787151322</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583787151322</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="247" y="82" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1583790650674">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="247" y="82" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1280.800@0.0.1280.800" timestamp="1583790650674" />
+    <state width="1236" height="212" key="GridCell.Tab.0.bottom" timestamp="1583935854920">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1236" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1583935854920" />
+    <state width="1236" height="212" key="GridCell.Tab.0.bottom/0.23.1280.723@0.23.1280.723" timestamp="1583853491811" />
+    <state width="1236" height="212" key="GridCell.Tab.0.center" timestamp="1583935854919">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1236" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1583935854919" />
+    <state width="1236" height="212" key="GridCell.Tab.0.center/0.23.1280.723@0.23.1280.723" timestamp="1583853491810" />
+    <state width="1236" height="212" key="GridCell.Tab.0.left" timestamp="1583935854918">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1236" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1583935854918" />
+    <state width="1236" height="212" key="GridCell.Tab.0.left/0.23.1280.723@0.23.1280.723" timestamp="1583853491809" />
+    <state width="1236" height="212" key="GridCell.Tab.0.right" timestamp="1583935854920">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1236" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1583935854920" />
+    <state width="1236" height="212" key="GridCell.Tab.0.right/0.23.1280.723@0.23.1280.723" timestamp="1583853491811" />
+    <state x="333" y="212" key="com.intellij.ide.util.TipDialog" timestamp="1583790237838">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="333" y="212" key="com.intellij.ide.util.TipDialog/0.0.1280.800@0.0.1280.800" timestamp="1583790237838" />
+    <state x="333" y="213" key="com.intellij.ide.util.TipDialog/0.23.1280.716@0.23.1280.716" timestamp="1583787172345" />
+    <state x="0" y="0" width="782" height="800" key="find.popup" timestamp="1583848343351">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="0" y="0" width="782" height="800" key="find.popup/0.0.1280.800@0.0.1280.800" timestamp="1583848343351" />
+  </component>
+</project>
